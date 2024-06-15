@@ -1,0 +1,28 @@
+body{
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family: cursive;
+    text-align: center;
+    background-color: aqua;
+    
+    
+}
+.rules{
+    text-align: left;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family: cursive;
+    color: black;
+}
+.hero-image {
+    background-image: url("background.jpg"); /* The image used */
+    background-color:greenyellow; /* Used if the image is unavailable */
+    height: 1000px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  p{
+    color: black;
+  }
+  b{
+    color:gold;
+  }
